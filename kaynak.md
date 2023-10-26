@@ -6,4 +6,6 @@
 6) [Drug-drug interactions involving antipsychotics and antihypertensives](https://pubmed.ncbi.nlm.nih.gov/35658798/)
 7) [Drug interactions in hypertension](https://pubmed.ncbi.nlm.nih.gov/3280485/)
 8) [[Antihypertensive drug-drug interactions]](https://pubmed.ncbi.nlm.nih.gov/15927106/)
-9) [Metoprolol kullanan hastalarda eş zamanlı NSAİİ kullanımı ve ilaç etkileşimi](https://acikerisim.medipol.edu.tr/xmlui/handle/20.500.12511/7543)
+9) [Metoprolol kullanan hastalarda eş zamanlı NSAİİ kullanımı ve ilaç etkileşimi](https://acikerisim.medipol.edu.tr/xmlui/handle/20.500.12511/7543)  
+10) [Study of drug–Drug interactions among the hypertensive patients in a tertiary care teaching hospital](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5799957/)
+11) [Informatics confronts drug–drug interactions](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3808975/)  

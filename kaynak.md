@@ -5,4 +5,5 @@
 5) [Drug Interactions with Antihypertensives](https://pubmed.ncbi.nlm.nih.gov/33666764/)
 6) [Drug-drug interactions involving antipsychotics and antihypertensives](https://pubmed.ncbi.nlm.nih.gov/35658798/)
 7) [Drug interactions in hypertension](https://pubmed.ncbi.nlm.nih.gov/3280485/)
-8) [[Antihypertensive drug-drug interactions]](https://pubmed.ncbi.nlm.nih.gov/15927106/)  
+8) [[Antihypertensive drug-drug interactions]](https://pubmed.ncbi.nlm.nih.gov/15927106/)
+9) [Metoprolol kullanan hastalarda eş zamanlı NSAİİ kullanımı ve ilaç etkileşimi](https://acikerisim.medipol.edu.tr/xmlui/handle/20.500.12511/7543)
